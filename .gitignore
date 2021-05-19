@@ -1,6 +1,5 @@
 node_modules
 .tern-port
-/build
 #*
 .#*
 coverage/
