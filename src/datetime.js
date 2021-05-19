@@ -1447,7 +1447,7 @@ export default class DateTime {
     }
 
     if (normalizedUnit === "weeks") {
-      o.weekday = 1;
+      o.weekday = 7;
     }
 
     if (normalizedUnit === "quarters") {
